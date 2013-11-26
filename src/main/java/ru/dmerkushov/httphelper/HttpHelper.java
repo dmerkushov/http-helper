@@ -18,7 +18,7 @@ import ru.dmerkushov.loghelper.LoggerWrapper;
 
 /**
  *
- * @author shandr
+ * @author Dmitriy Merkushov
  */
 public class HttpHelper {
 	

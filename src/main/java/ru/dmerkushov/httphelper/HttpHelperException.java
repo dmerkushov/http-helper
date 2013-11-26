@@ -7,7 +7,7 @@ package ru.dmerkushov.httphelper;
 
 /**
  *
- * @author shandr
+ * @author Dmitriy Merkushov
  */
 public class HttpHelperException extends Exception {
 	private static final long serialVersionUID = 1L;
